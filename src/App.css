@@ -1,6 +1,9 @@
-
-.HomeScreen{
+.App{
+    height: 100vh;
     background: var(--linear-gradient-primary);
+}
+.HomeScreen{
+    
     height: 100vh;
     width: 100%;
     padding: 30px;
